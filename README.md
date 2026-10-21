@@ -31,10 +31,6 @@ El proyecto se compone de 4 clases que implementan principios básicos de encaps
 - `Salon.java`: Modelo de datos de la infraestructura.
 - `Materia.java`: Entidad que relaciona un objeto `Profesor` y un objeto `Salon` bajo un identificador único.
 
-## Cómo ejecutar el proyecto
+## Autor: Roberto Daniel Ramos Flores
 
-1. Clonar el repositorio en la máquina local.
-2. Contar con el Java Development Kit (JDK) instalado.
-3. Desde la terminal, compilar los archivos `.java` en la raíz del proyecto:
-   ```bash
-   javac App.java Profesor.java Salon.java Materia.java
+
